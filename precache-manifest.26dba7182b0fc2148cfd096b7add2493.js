@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f5833633353cb5df2251437e86dc1e",
+    "revision": "b53180b978ad727e42943ccf3400fb23",
     "url": "/react_films-list-use-raw-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_films-list-use-raw-redux/static/css/2.1ab5750d.chunk.css"
   },
   {
-    "revision": "cef216294eeee3685e9b",
+    "revision": "3d449d70cbce13b8db93",
     "url": "/react_films-list-use-raw-redux/static/css/main.735efa35.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_films-list-use-raw-redux/static/js/2.420f8d26.chunk.js"
   },
   {
-    "revision": "cef216294eeee3685e9b",
-    "url": "/react_films-list-use-raw-redux/static/js/main.879aacb0.chunk.js"
+    "revision": "3d449d70cbce13b8db93",
+    "url": "/react_films-list-use-raw-redux/static/js/main.b7e497b9.chunk.js"
   },
   {
     "revision": "7588ac357f07406e5d63",
